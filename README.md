@@ -50,7 +50,6 @@ This project demonstrates practical skills in data preparation, business intelli
 ![Station Intelligence](Page%202%20%28%20Station%20Intelligence%20%29.png)
 
 ![Charging Network Performance](Page%203%20%28%20Charging%20Network%20Perfo...%29.png)
-
 📂 Project Structure
 
 EV_Charging_Analytics_Project/
