@@ -77,3 +77,13 @@ Sanjay S
 Aspiring Data Analyst
 
 Skills: Excel | Power BI | Data Cleaning | Data Visualization | Dashboard Design
+
+## 📥 How to Explore This Project
+
+1. Browse the dashboard screenshots above to understand the key insights.
+2. Download `EV Charging Analytics.pbix` from this repository to explore the interactive Power BI report.
+3. Download `EV_Charging_Analytics_Project.xlsx` to inspect the source dataset.
+4. Open the `.pbix` file using Power BI Desktop.
+5. Use the available slicers and visuals to explore EV charging sessions, station performance, energy consumption, and charging behavior.
+
+**Note:** Power BI Desktop is required to open and interact with the `.pbix` file.
