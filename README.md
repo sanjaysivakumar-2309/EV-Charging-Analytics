@@ -45,11 +45,15 @@ The dashboard transforms raw charging-session data into meaningful insights thro
 ## Project Purpose
 This project demonstrates practical skills in data preparation, business intelligence, interactive dashboard design, and analytical storytelling for EV charging operations.
 
+### Page 1 — EV Overview
 ![EV Overview](Page%201%20%28%20Executive%20Overview%20%29.png)
 
+### Page 2 — Station Intelligence
 ![Station Intelligence](Page%202%20%28%20Station%20Intelligence%20%29.png)
 
-![Charging Network Performance](Page%203%20%28%20Charging%20Network%20Perfo...%29.png)
+### Page 3 — Charging Network Performance & Utilization
+![Charging Network Performance & Utilization](Page%203%20%28%20Charging%20Network%20Performance%20%26%20Utilization%20%29.png)
+
 📂 Project Structure
 
 EV_Charging_Analytics_Project/
